@@ -3,7 +3,7 @@ import os
 from _thread import *
 
 ServerSocket = socket.socket()
-host = ''
+host = '192.168.56.103'
 port = 8889
 ThreadCount = 0
 try:
